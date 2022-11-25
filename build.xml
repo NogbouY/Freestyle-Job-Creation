@@ -3,4 +3,4 @@
 	<target name="info">
 		<echo>Hello World - Welcome to simplilearn</echo>
 	</target>
-</Project>
+</project>
